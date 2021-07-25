@@ -1,10 +1,10 @@
 # IdulAdha
 Saya sedang mengikuti kontes #1 Bekasidev dengan tema "Idul Adha". Projek yang Saya buat ini,Saya beri nama al-Adha Mubarak. Projek ini adalah hasil dari slicing design mas <a href="https://dribbble.com/dhefryrezha">Dhefry Andirezha</a>.
 
-# Dribble Shot
+# Dribbble Shots
 <a href="https://dribbble.com/shots/13938022-Eid-al-Adha-Mubarak-Website-Header">https://dribbble.com/shots/13938022-Eid-al-Adha-Mubarak-Website-Header</a>
 
-# Demo
+# Demo Project
  <a href="https://wafarifki.github.io/IdulAdha/">https://wafarifki.github.io/IdulAdha/</a>
 
 Mari dukung saya dengan menyukai, membagikan maupun mengometari postingan ini, jika kamu ingin menjadi peserta pada kontes selanjutnya, marilah bergabung bersama saya melalui link berikut ini. Terima Kasih.
