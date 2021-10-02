@@ -14,7 +14,9 @@ body {
     margin: 0;
     background-color: #FEFAF1 !important;
 }
-
+h4{
+    font-size: 30px;
+}
 .wobble-ver-left {
 	-webkit-animation: wobble-ver-left 1s 3s 2 both;
 	        animation: wobble-ver-left 1s 3s 2 both;
@@ -313,7 +315,13 @@ div#mengloding img {
 input[type="checkbox"] {
     display: none;
 }
-
+.aboutcls{
+    padding-right: 50px;
+    padding-top: 100px;
+    padding-left: 50px;
+    font-size: 22px;
+    line-height: 1.9em;
+}
 @media (min-width: 576px) {
     div#mengloding img {
         width: 17%;
