@@ -5,4 +5,5 @@ Don't forget to put your name.
 - Yashwanth Sai
 - Mutia Zahra
 - Coding-Boon
+- Pausi
 - Pramdhanni Dwi Putra Bintang
