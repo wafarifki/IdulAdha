@@ -3,6 +3,15 @@
     src: url(../font/ProximaNovaBlack.otf);
 }
 
+.nav-item nav-link{
+	color:blue;
+	
+}
+.nav-item nav-link :hover{
+	color:red;
+	
+}
+
 :root {
     --animate-duration: 4s !important;
     --animate-delay: 4s !important;
