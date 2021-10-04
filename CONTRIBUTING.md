@@ -4,6 +4,8 @@ Don't forget to put your name.
 - Andika Tulus Pangestu
 - Yashwanth Sai
 - Mutia Zahra
+
+- Shweta Jha
 - Coding-Boon
 - Pausi
 - Pramdhanni Dwi Putra Bintang

@@ -322,7 +322,15 @@ div#mengloding img {
 input[type="checkbox"] {
     display: none;
 }
-
+.aboutcls{
+    padding-top: 60px;
+    font-size: 22px;
+    line-height: 1.9em;
+}
+.aboutcls p{
+    padding-left: 5%;
+    padding-right: 5%;
+}
 @media (min-width: 576px) {
     div#mengloding img {
         width: 17%;
