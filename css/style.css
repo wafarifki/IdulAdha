@@ -357,3 +357,23 @@ input[type="checkbox"] {
         right: 0;
     }
 }
+
+footer{
+    background-color: #252525;
+    height: 15em;
+}
+
+footer h3{
+    color: #FEFAF1;
+    margin: 0.5em 1em;
+    padding-top:1em ;
+}
+footer .footer-div
+{
+    background-color: #075F5C;
+    margin: 0 auto;
+    width: 20em;
+    color: #fdfff9;
+    border-radius:30px;
+    padding: 1em;
+}
