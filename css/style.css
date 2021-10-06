@@ -4,12 +4,11 @@
 }
 
 .nav-item nav-link{
-	color:blue;
-	
+	color:blue;	
 }
+
 .nav-item nav-link :hover{
-	color:red;
-	
+	color:red;	
 }
 
 :root {
@@ -29,7 +28,7 @@ body {
 	        animation: wobble-ver-left 1s 3s 2 both;
 }
 
-@-webkit-keyframes wobble-ver-left {
+@-webkit-keyframes wobble-ver-left{
   0%,
   100% {
     -webkit-transform: translateY(0) rotate(0);
