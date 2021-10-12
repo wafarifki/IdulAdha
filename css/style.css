@@ -2,6 +2,9 @@
     font-family: mainfont;
     src: url(../font/ProximaNovaBlack.otf);
 }
+html{
+    scroll-behavior: smooth;
+}
 
 .nav-item nav-link{
 	color:blue;	
@@ -375,4 +378,17 @@ footer .footer-div
     color: #fdfff9;
     border-radius:30px;
     padding: 1em;
+}
+#about{
+    margin-left: 20px;
+}
+#abou{
+    display: flex;
+}
+.about-text{
+    width: 60%;
+    font-size: 1.5rem;
+}
+#about img{
+    width: 400px;
 }
