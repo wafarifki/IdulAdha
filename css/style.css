@@ -11,7 +11,7 @@ html {
 }
 
 .nav-item nav-link :hover {
-  color: red;
+  color: green;
 }
 
 :root {
