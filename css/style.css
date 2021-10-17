@@ -393,3 +393,11 @@ footer .footer-div
 #about img{
     width: 400px;
 }
+.text-footer{
+    text-align: center;
+    padding: 30px 0;
+    font-family: 'Courier New', Courier, monospace;
+    display:flex;
+    justify-content: center;
+    color: black;
+}
