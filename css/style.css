@@ -394,3 +394,52 @@ footer .footer-div {
 #about img {
   width: 400px;
 }
+    .iemgeh {
+        position: fixed;
+        bottom: 0;
+        width: 30%;
+        right: 0;
+    }
+}
+
+footer{
+    background-color:#319E77;
+    width:100%;
+    height: 15em;
+}
+
+footer h3{
+    color: #FEFAF1;
+    margin: 0.5em 1em;
+    padding-top:1em ;
+}
+footer .footer-div
+{
+    background-color: #075F5C;
+    margin: 0 auto;
+    width: 20em;
+    color: #fdfff9;
+    border-radius:30px;
+    padding: 1em;
+}
+#about{
+    margin-left: 20px;
+}
+#abou{
+    display: flex;
+}
+.about-text{
+    width: 60%;
+    font-size: 1.5rem;
+}
+#about img{
+    width: 400px;
+}
+.text-footer{
+    text-align: center;
+    padding: 30px 0;
+    font-family: 'Courier New', Courier, monospace;
+    display:flex;
+    justify-content: center;
+    color: black;
+}
