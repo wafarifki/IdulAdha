@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+
 @font-face {
     font-family: mainfont;
     src: url(../font/ProximaNovaBlack.otf);
@@ -98,7 +100,7 @@ body {
 
 .navbar-light .navbar-nav .nav-link {
     margin: 0 20px 0 0;
-    font-family: sans-serif;
+    font-family: 'Tangerine', cursive;
 }
 
 .navbar-light .navbar-nav .active>.nav-link,
