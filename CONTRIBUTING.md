@@ -4,7 +4,6 @@ Don't forget to put your name.
 - Andika Tulus Pangestu
 - Yashwanth Sai
 - Mutia Zahra
-
 - Shweta Jha
 - Coding-Boon
 - Pausi
@@ -14,3 +13,4 @@ Don't forget to put your name.
 - Ishika Agrawal
 - Alief Ramadhan
 - Zuxxop
+- Muryaaadi
