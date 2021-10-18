@@ -12,3 +12,4 @@ Don't forget to put your name.
 - SmashedTrash
 - Pratibha Singh
 - Ishika Agrawal
+- Zuxxop
