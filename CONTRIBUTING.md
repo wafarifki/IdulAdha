@@ -13,3 +13,4 @@ Don't forget to put your name.
 - Pratibha Singh
 - Ishika Agrawal
 - Alief Ramadhan
+- Zuxxop
