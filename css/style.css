@@ -367,7 +367,7 @@ input[type='checkbox'] {
 footer {
   background-color: #319e77;
   width: 100%;
-  height: 15em;
+  /*height: 15em;*/
 }
 
 footer h3 {
@@ -407,12 +407,12 @@ footer .footer-div {
 footer{
     background-color:#319E77;
     width:100%;
-    height: 15em;
+    /*height: 15em;*/
 }
 
 footer h3{
     color: #FEFAF1;
-    margin: 0.5em 1em;
+    margin: 0.5em 0; /*1em;*/
     padding-top:1em ;
 }
 footer .footer-div
@@ -443,5 +443,16 @@ footer .footer-div
     font-family: 'Courier New', Courier, monospace;
     display:flex;
     justify-content: center;
-    color: black;
+    color: white;
+    background-color: #224452;
+}
+.holderSocial{
+    max-width: 40px !important;
+}
+.btnSocial{
+    color: white;
+    font-size: 22px;
+}
+.btnSocial:hover{
+    color:#224452;
 }
