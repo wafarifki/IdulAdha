@@ -359,7 +359,7 @@ input[type='checkbox'] {
   .iemgeh {
     position: fixed;
     bottom: 0;
-    width: 30%;
+    width: 5%;
     right: 0;
   }
 }
@@ -399,7 +399,7 @@ footer .footer-div {
     .iemgeh {
         position: fixed;
         bottom: 0;
-        width: 30%;
+        width: 22%;
         right: 0;
     }
 }
