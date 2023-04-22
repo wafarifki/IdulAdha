@@ -10,10 +10,10 @@ Saya sedang mengikuti kontes #1 Bekasidev dengan tema "Idul Adha". Projek yang S
 
 Mari dukung saya dengan menyukai, membagikan maupun mengometari postingan ini, jika kamu ingin menjadi peserta pada kontes selanjutnya, marilah bergabung bersama saya melalui link berikut ini. Terima Kasih.
 
-Facebook: <a href="https://facebook.com/bekasidev">https://facebook.com/bekasidev</a>
-FB group: <a href="https://facebook.com/groups/bekasidev">https://facebook.com/groups/bekasidev</a>
-WA group: <a href="https://bit.ly/bekasidev-wa">https://bit.ly/bekasidev-wa</a>
-Github: <a href="https://github.com/bekasidev">https://github.com/bekasidev</a>
+Facebook: <a href="https://facebook.com/bekasidev">https://facebook.com/bekasidev</a><br>
+FB group: <a href="https://facebook.com/groups/bekasidev">https://facebook.com/groups/bekasidev</a><br>
+WA group: <a href="https://bit.ly/bekasidev-wa">https://bit.ly/bekasidev-wa</a><br>
+Github: <a href="https://github.com/bekasidev">https://github.com/bekasidev</a><br>
 Website: <a href="https://bekasidev.org">https://bekasidev.org</a>
 
 
